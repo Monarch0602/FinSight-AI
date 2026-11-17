@@ -180,7 +180,13 @@ Actual results depend on the selected stock, date range, available data, and mod
 
 ## Disclaimer
 
-FinSight AI is an educational and analytical project. It is not a financial advisory service and does not provide investment recommendations. All predictions and historical analyses should be independently evaluated before making financial decisions.
+**Financial Disclaimer**
+
+FinSight AI is an educational financial market analytics and research platform. It provides historical market analysis, machine learning-based market predictions, financial news sentiment analysis, trading strategy backtesting, and portfolio risk metrics.
+
+The platform does not provide personalised investment advice, stock recommendations, or guaranteed predictions of future market performance. All model outputs are probabilistic and based on historical data and available information.
+
+Users should independently evaluate the risks and consult a qualified financial professional before making investment decisions.
 
 ## Author
 
