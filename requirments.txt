@@ -1,0 +1,13 @@
+
+streamlit
+yfinance
+pandas
+numpy
+plotly
+scikit-learn
+imbalanced-learn
+ta
+transformers
+torch
+vaderSentiment
+nltk
